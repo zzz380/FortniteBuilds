@@ -1,5 +1,5 @@
-# allfnbuild
-Every Fortnite Build In One,
+# Fortnite Builds
+All Fortnite Builds.
 # Credit to Crunnie, Simplyblk and more
 They have there own builds so check them out if these dont work.
 # Notices
